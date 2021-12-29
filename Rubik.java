@@ -4,12 +4,6 @@ package ceng344_lab2;
 import java.awt.Color;
 import java.util.Random;
 
-
-
-
-
-
-
 public class Rubik {
 Color[] colors = new Color[5];
 Color[] currentColors = new Color[4];
