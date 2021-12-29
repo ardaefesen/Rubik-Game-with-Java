@@ -5,9 +5,6 @@ import java.awt.Color;
 import java.util.Random;
 
 
-									// ARDA EFE ﬁEN
-									// 201611053
-									// Section 1
 
 
 
@@ -76,7 +73,7 @@ public boolean match(Color rand1, Color rand2, Color rand3, Color rand4) {
 
 //Implements the game mechanism, while all squares do not have the same color lets the
 //user press squares to change their colors.
-//When all the squares have matching colors displays a text that says ìYou won!î
+//When all the squares have matching colors displays a text that says ‚ÄúYou won!‚Äù
 public void play() {
 	
 	int square;
