@@ -24,7 +24,7 @@
  *       images and strings
  *
  ******************************************************************************/
-package ceng344_lab2;
+
 
 import java.awt.BasicStroke;
 import java.awt.Color;
